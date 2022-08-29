@@ -1,5 +1,5 @@
 
-//ALİCİ
+//ORTA ALİCİ
 #include <ESP8266WiFi.h>
 #include <SPI.h>
 #include <nRF24L01.h>
