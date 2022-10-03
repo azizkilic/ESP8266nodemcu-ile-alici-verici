@@ -7,8 +7,8 @@
 #include <BlynkSimpleEsp8266.h>
 #define BLYNK_AUTH_TOKEN "5_aIAECSRfCyr1iu1x5QeJU-5GbrTyVA"
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "EV"; //internet adınızı yazın       MADİS=FiberHGW_ZTGP2S_2.4GHz
-char pass[] = "mustafa1969"; //internet şifrenizi yazın   MADİS=43j7XPR7CK
+char ssid[] = "EV"; //internet adınızı yazın       
+char pass[] = "mustafa1969"; //internet şifrenizi yazın   
 int deger =0;
 int deger1=0;
 int deger2=0;
